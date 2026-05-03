@@ -1,4 +1,4 @@
-# 🚀 Customer Churn Intelligence: Predict, Analyze & Retain
+# 🚀 Customer Churn Intelligence Engine: Predictive Analytics & Retention Strategy
 
 ## 📌 Overview
 
@@ -83,8 +83,6 @@ The goal is to help businesses **identify at-risk customers early** and take pro
 * Scikit-learn
 * XGBoost
 * Matplotlib / Seaborn
-* Streamlit (for deployment)
-* Power BI (for dashboard)
 
 ---
 
